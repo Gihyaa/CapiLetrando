@@ -23,9 +23,8 @@ Além disso, o sistema busca garantir acessibilidade e inclusão, considerando d
 
 ## ✨ Funcionalidades
 
-* React Native;
-* Firebase;
-
+* React Native
+* Firebase
 
 ## 🛠️ Tecnologias Utilizadas
 

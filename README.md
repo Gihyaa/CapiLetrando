@@ -2,7 +2,7 @@
 
 Aplicação educacional voltada ao processo de alfabetização infantil, com foco em aprendizagem adaptativa, acessibilidade e inclusão.
 
-## 📖 Sobre o Projeto
+# 📖 Sobre o Projeto
 
 O **CapiLetrando** é uma plataforma educacional desenvolvida para apoiar crianças em fase de alfabetização por meio de experiências interativas, acessíveis e personalizadas.
 
@@ -31,7 +31,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Gerenciamento de perfis.
 
 
-## 📚 Módulo de Alfabetização
+# 📚 Módulo de Alfabetização
 
 * Reconhecimento de letras;
 * Associação entre letras e sons;
@@ -40,7 +40,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Atividades interativas e educativas.
 
 
-## 🤖 Aprendizagem Adaptativa
+# 🤖 Aprendizagem Adaptativa
 
 * Ajuste automático do nível de dificuldade;
 * Recomendação personalizada de atividades;
@@ -48,7 +48,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Monitoramento da evolução individual.
 
 
-## 💛 Desenvolvimento Socioemocional
+# 💛 Desenvolvimento Socioemocional
 
 * Histórias interativas;
 * Perguntas emocionais e reflexivas;
@@ -56,7 +56,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Estímulos positivos durante o aprendizado.
 
 
-## 🎮 Gamificação
+# 🎮 Gamificação
 
 * Sistema de pontuação;
 * Recompensas e incentivos;
@@ -64,7 +64,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Progressão por níveis.
 
 
-## 👨‍👩‍👧 Dashboard do Responsável
+# 👨‍👩‍👧 Dashboard do Responsável
 
 * Relatórios de progresso;
 * Monitoramento do tempo de uso;
@@ -72,7 +72,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Identificação de dificuldades e áreas de melhoria.
 
 
-## ⚙️ Configurações
+# ⚙️ Configurações
 
 * Controle de som;
 * Configurações de acessibilidade;
@@ -106,15 +106,15 @@ Esse modelo permite uma experiência de aprendizagem mais eficiente, dinâmica e
 
 # 🛠️ Tecnologias Utilizadas
 
-## Front-end
+# Front-end
 
 * React Native
 
-## Back-end e Serviços
+# Back-end e Serviços
 
 * Firebase
 
-## Outras Tecnologias
+# Outras Tecnologias
 
 * Tecnologias complementares serão definidas conforme a evolução do projeto.
 
@@ -130,7 +130,7 @@ Esse modelo permite uma experiência de aprendizagem mais eficiente, dinâmica e
 
 Projeto desenvolvido com foco em educação, inclusão e tecnologia, buscando transformar o processo de alfabetização infantil por meio de soluções digitais acessíveis e inovadoras.
 
-### Integrantes
+# Integrantes
 
 * Giovana Marsigli Rodrigues
 * Giovanna Aparecida Vivencio Rodrigues

@@ -2,7 +2,6 @@
 
 Aplicação de apoio à alfabetização infantil com foco em aprendizagem adaptativa, inclusiva e acessível.
 
----
 
 ## 📖 Sobre o Projeto
 
@@ -12,7 +11,6 @@ A proposta do projeto é utilizar recursos interativos e estratégias de aprendi
 
 Além disso, o sistema busca garantir acessibilidade e inclusão, considerando diferentes perfis de aprendizagem e necessidades educacionais.
 
----
 
 ## 🎯 Objetivos
 
@@ -22,7 +20,6 @@ Além disso, o sistema busca garantir acessibilidade e inclusão, considerando d
 * Promover inclusão e acessibilidade educacional;
 * Facilitar o acompanhamento da evolução do aluno.
 
----
 
 ## ✨ Funcionalidades
 
@@ -34,7 +31,6 @@ Além disso, o sistema busca garantir acessibilidade e inclusão, considerando d
 
 A serem definidas!
 
----
 
 ## ♿ Acessibilidade e Inclusão
 
@@ -45,7 +41,6 @@ Entre os recursos planejados estão:
 * Navegação simplificada;
 * Atividades adaptadas ao desempenho da criança.
 
----
 
 ## 🧩 Aprendizagem Adaptativa
 
@@ -58,7 +53,6 @@ O sistema utilizará métricas de desempenho para adaptar as atividades conforme
 
 Isso permite uma experiência personalizada e mais eficiente no processo de alfabetização.
 
----
 
 ## 👨‍🏫 Público-Alvo
 

@@ -2,7 +2,7 @@
 
 Aplicação educacional voltada ao processo de alfabetização infantil, com foco em aprendizagem adaptativa, acessibilidade e inclusão.
 
-# 📖 Sobre o Projeto
+#  Sobre o Projeto
 
 O **CapiLetrando** é uma plataforma educacional desenvolvida para apoiar crianças em fase de alfabetização por meio de experiências interativas, acessíveis e personalizadas.
 
@@ -11,7 +11,7 @@ O projeto utiliza estratégias de aprendizagem adaptativa para acompanhar o dese
 Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscando atender diferentes perfis de aprendizagem e necessidades educacionais.
 
 
-# 🎯 Objetivos
+# Objetivos
 
 * Auxiliar no processo de alfabetização infantil;
 * Proporcionar experiências de aprendizagem adaptativas;
@@ -21,9 +21,9 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Estimular o desenvolvimento cognitivo e socioemocional.
 
 
-# ⚙️ Funcionalidades do Sistema
+# Funcionalidades do Sistema
 
-## 👤 Usuário e Acesso
+## Usuário e Acesso
 
 * Cadastro de responsáveis;
 * Login e autenticação de usuários;
@@ -31,7 +31,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Gerenciamento de perfis.
 
 
-# 📚 Módulo de Alfabetização
+## Módulo de Alfabetização
 
 * Reconhecimento de letras;
 * Associação entre letras e sons;
@@ -40,7 +40,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Atividades interativas e educativas.
 
 
-# 🤖 Aprendizagem Adaptativa
+## Aprendizagem Adaptativa
 
 * Ajuste automático do nível de dificuldade;
 * Recomendação personalizada de atividades;
@@ -48,7 +48,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Monitoramento da evolução individual.
 
 
-# 💛 Desenvolvimento Socioemocional
+# Desenvolvimento Socioemocional
 
 * Histórias interativas;
 * Perguntas emocionais e reflexivas;
@@ -56,7 +56,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Estímulos positivos durante o aprendizado.
 
 
-# 🎮 Gamificação
+# Gamificação
 
 * Sistema de pontuação;
 * Recompensas e incentivos;
@@ -64,7 +64,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Progressão por níveis.
 
 
-# 👨‍👩‍👧 Dashboard do Responsável
+# Dashboard do Responsável
 
 * Relatórios de progresso;
 * Monitoramento do tempo de uso;
@@ -72,7 +72,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Identificação de dificuldades e áreas de melhoria.
 
 
-# ⚙️ Configurações
+# Configurações
 
 * Controle de som;
 * Configurações de acessibilidade;
@@ -80,7 +80,7 @@ Além do foco pedagógico, o sistema prioriza acessibilidade e inclusão, buscan
 * Personalização do perfil.
 
 
-# ♿ Acessibilidade e Inclusão
+# Acessibilidade e Inclusão
 
 O **CapiLetrando** foi idealizado com foco em acessibilidade e inclusão educacional, buscando proporcionar uma experiência acolhedora e eficiente para crianças com diferentes necessidades de aprendizagem.
 
@@ -91,32 +91,32 @@ Entre os recursos planejados estão:
 * Interface acessível;
 * Estímulos visuais e sonoros adequados ao público infantil.
 
-# 🛠️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
-# Front-end
+## Front-end
 
 * React Native
 
-# Back-end e Serviços
+## Back-end e Serviços
 
 * Firebase
 
-# Outras Tecnologias
+## Outras Tecnologias
 
 * Tecnologias complementares serão definidas conforme a evolução do projeto.
 
-# 👨‍🏫 Público-Alvo
+#  Público-Alvo
 
 * Crianças em fase de alfabetização;
 * Professores e educadores;
 * Pais e responsáveis;
 * Instituições educacionais.
 
-# 📌 Considerações Finais
+# Considerações Finais
 
 O **CapiLetrando** busca unir tecnologia, educação e inclusão para oferecer uma experiência de alfabetização moderna, adaptativa e humanizada, contribuindo para o desenvolvimento infantil de forma lúdica, acessível e eficiente.
 
-# ❤️ Equipe de Desenvolvimento
+# Equipe de Desenvolvimento
 
 Projeto desenvolvido com foco em educação, inclusão e tecnologia, buscando transformar o processo de alfabetização infantil por meio de soluções digitais acessíveis e inovadoras.
 

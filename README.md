@@ -125,6 +125,9 @@ Esse modelo permite uma experiência de aprendizagem mais eficiente, dinâmica e
 * Pais e responsáveis;
 * Instituições educacionais.
 
+# 📌 Considerações Finais
+
+O **CapiLetrando** busca unir tecnologia, educação e inclusão para oferecer uma experiência de alfabetização moderna, adaptativa e humanizada, contribuindo para o desenvolvimento infantil de forma lúdica, acessível e eficiente.
 
 # ❤️ Equipe de Desenvolvimento
 
@@ -135,8 +138,3 @@ Projeto desenvolvido com foco em educação, inclusão e tecnologia, buscando tr
 * Giovana Marsigli Rodrigues
 * Giovanna Aparecida Vivencio Rodrigues
 * Mariana Akemi Arashiro Santos Feitosa
-
-
-# 📌 Considerações Finais
-
-O **CapiLetrando** busca unir tecnologia, educação e inclusão para oferecer uma experiência de alfabetização moderna, adaptativa e humanizada, contribuindo para o desenvolvimento infantil de forma lúdica, acessível e eficiente.

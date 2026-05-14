@@ -91,19 +91,6 @@ Entre os recursos planejados estão:
 * Interface acessível;
 * Estímulos visuais e sonoros adequados ao público infantil.
 
-
-# 🧩 Aprendizagem Adaptativa
-
-A plataforma utilizará métricas de desempenho para personalizar as atividades de acordo com:
-
-* Nível de dificuldade;
-* Tempo de resposta;
-* Frequência de erros e acertos;
-* Evolução individual da criança.
-
-Esse modelo permite uma experiência de aprendizagem mais eficiente, dinâmica e personalizada.
-
-
 # 🛠️ Tecnologias Utilizadas
 
 # Front-end
